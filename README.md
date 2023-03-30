@@ -1,0 +1,2 @@
+# LeoStandardToken
+LeoToken
